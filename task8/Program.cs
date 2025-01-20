@@ -16,4 +16,3 @@
     Console.WriteLIne(snt);
 }
 string n = (Console.ReadLine());
-str(n);
